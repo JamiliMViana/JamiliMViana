@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Jamili Martucheli Viana 👋</h1>
 
-<h3 align="center">Backend Java Developer | APIs RESTful, Microservices & Cloud</h3>
+<h3 align="center">Backend Java Developer | Spring Boot | REST APIs & Microservices</h3>
 
 <p align="center">
-  I’m a backend developer focused on building and evolving scalable Java applications, REST APIs, microservices, and integrations.
-  I have experience working on projects for financial institutions, including modernizing legacy COBOL operations into cloud-ready Java/Quarkus microservices.
+  Backend developer focused on building scalable, maintainable Java applications, RESTful APIs, microservices, and integrations.
+  I have experience in projects for financial institutions, working with backend services, business rules, automated testing, databases, cloud infrastructure, and observability.
 </p>
 
 ## 🚀 About Me
 
-- 💼 Backend developer with experience in Java, Spring Boot, and Quarkus.
+- 💼 Backend developer with hands-on experience in Java and Spring Boot.
 - 🏦 Worked on projects for financial institutions, developing and maintaining backend services and integrations.
-- 🧩 Experience transforming legacy COBOL business rules and flows into REST APIs and cloud-ready microservices.
-- ☁️ Experience with Microsoft Azure, Docker, and Kubernetes across development, staging, and production environments.
-- 📨 Worked with Apache Kafka for messaging and event-driven integrations.
+- 🔗 Experience designing, implementing, documenting, and integrating RESTful APIs.
+- 🧩 Experience implementing business rules, service layers, DTOs, DAO/repository patterns, and persistence logic.
 - 🗄️ Experience with relational and NoSQL databases, including MySQL and MongoDB.
-- 🧪 Focused on automated testing, code quality, and maintainable architecture.
+- 🧪 Focused on automated testing, code quality, maintainability, and reliable software delivery.
+- ☁️ Experience with Microsoft Azure, Docker, Kubernetes, Apache Kafka, and application monitoring.
 - 🎓 Bachelor’s degree in Information Technology and currently pursuing a postgraduate program in AI Systems Development and Management.
 - 🤖 Interested in backend engineering applied to Artificial Intelligence and AI-powered products.
 
@@ -24,6 +24,7 @@
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 
 ### Backend & Architecture
@@ -34,12 +35,12 @@
 ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=cleanarchitecture&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6F00?style=for-the-badge&logo=abstract&logoColor=white)
 
-### Databases
+### Databases & Persistence
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Panache](https://img.shields.io/badge/Quarkus_Panache-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud, DevOps & Observability
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -56,7 +57,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-20232A?style=for-the-badge&logo=postman&logoColor=white)
 
-### Tools
+### Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -64,19 +65,19 @@
 
 ## 📌 What I Work With
 
-- Designing and developing RESTful APIs and backend services.
-- Building and evolving Java microservices with Spring Boot and Quarkus.
-- Translating legacy COBOL business rules into modern cloud-ready services.
-- Implementing business rules, DTOs, service layers, DAO/repository patterns, and persistence logic.
+- Designing and developing RESTful APIs and backend services in Java.
+- Building and evolving applications with Spring Boot.
+- Implementing business rules, DTOs, service layers, DAO/repository patterns, and data persistence.
 - Working with SQL and NoSQL databases, query validation, and data integrity.
 - Developing automated tests with JUnit, Mockito, Selenium, and REST Assured.
-- Integrating services with Kafka and supporting event-driven architectures.
+- Integrating backend services with Apache Kafka and supporting event-driven architectures.
 - Deploying and monitoring containerized applications on Azure and Kubernetes.
 - Applying Clean Code, SOLID principles, code reviews, and continuous improvement practices.
+- Collaborating in agile teams using Scrum and Kanban.
 
 ## 🎯 Current Focus
 
-I am currently focused on strengthening my backend Java engineering skills while exploring how Artificial Intelligence can be integrated into practical software solutions.
+I am currently focused on strengthening my backend Java and Spring Boot engineering skills while exploring how Artificial Intelligence can be integrated into practical software solutions.
 
 ## 📫 Let’s Connect
 
